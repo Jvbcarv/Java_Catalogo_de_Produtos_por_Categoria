@@ -2,8 +2,8 @@ package alura;
 
 public class Produto {
 	String nome;
-    double preco;
-    String categoria;
+    	double preco;
+    	String categoria;
 
     public Produto(String nome, double preco, String categoria) {
         this.nome = nome;
