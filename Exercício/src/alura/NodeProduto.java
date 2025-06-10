@@ -1,7 +1,7 @@
 package alura;
 
 public class NodeProduto {
-	 Produto produto;
+	    Produto produto;
 	    NodeProduto esquerda;
 	    NodeProduto direita;
 
